@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapa", "Mapa\Mapa.csproj", "{5ABA9F44-65C8-42FB-8C43-2066F9E1AD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ABA9F44-65C8-42FB-8C43-2066F9E1AD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABA9F44-65C8-42FB-8C43-2066F9E1AD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABA9F44-65C8-42FB-8C43-2066F9E1AD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABA9F44-65C8-42FB-8C43-2066F9E1AD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62ECF8E9-7F7A-4B87-99F5-4940963069F6}
+	EndGlobalSection
+EndGlobal
